@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hi, I'm Hannah 👋
 
-<!--
-**hannahfayhampson/hannahfayhampson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Data analyst with a background in cyber security, service delivery and criminology.**
+I turn messy data into clear, practical insights, with a focus on **cyber risk, intelligence and health analytics**.
 
-Here are some ideas to get you started:
+📍 Brisbane / Gold Coast, Australia
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### ✨ About me
+
+- 🎓 **Master of IT (Data Analytics)**, Griffith University
+- 🎓 **Bachelor of IT (Networks & Security)** + **Bachelor of Criminology & Criminal Justice**, Griffith University
+- 💼 Service Delivery Manager & Support Engineer in managed cyber and technology services: SLAs, KPIs, client relationships and hands-on tech
+- 🔎 Interested in how data can reduce risk, inform decisions and tell a story people actually act on
+
+### 🛠️ Tools & skills
+
+`Python` `pandas` `Jupyter` `R` `RStudio`
+
+Data cleaning · Exploratory analysis · Data visualisation · Statistical analysis · Machine learning basics · Data storytelling
+
+### 📊 Featured projects
+
+| Project | What it explores |
+|---|---|
+| 🔐 *Coming soon* | Australian data breach trends and cyber risk |
+| 🔎 *Coming soon* | Queensland crime patterns and intelligence-style reporting |
+| 🏥 *Coming soon* | Health service demand and performance dashboard |
