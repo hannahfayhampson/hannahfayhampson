@@ -27,3 +27,7 @@ Data cleaning · Exploratory analysis · Data visualisation · Statistical analy
 | 🔐 *Coming soon* | Australian data breach trends and cyber risk |
 | 🔎 *Coming soon* | Queensland crime patterns and intelligence-style reporting |
 | 🏥 *Coming soon* | Health service demand and performance dashboard |
+
+### 📫 Let's connect
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/hannah-hampson-35020014a/)
